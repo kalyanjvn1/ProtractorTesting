@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Protractor</id>
+    <version>0.7.1</version>
+    <title>Protractor</title>
+    <authors>Bruno Baia</authors>
+    <owners>Bruno Baia</owners>
+    <licenseUrl>https://github.com/bbaia/protractor-net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bbaia/protractor-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The .NET port of Protractor, an end to end test framework for AngularJS applications, built on top of Selenium WebDriver C# binding.</description>
+    <summary>E2E test framework for AngularJS applications.</summary>
+    <language>en-US</language>
+    <tags>Angular AngularJS Protractor Selenium WebDriver E2E Test</tags>
+    <dependencies>
+      <dependency id="Selenium.WebDriver" version="2.53.0" />
+    </dependencies>
+  </metadata>
+</package>

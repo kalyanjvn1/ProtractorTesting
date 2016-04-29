@@ -1,0 +1,14 @@
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\ProtractorTesting.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\ProtractorTesting.pdb
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\nunit.framework.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\Protractor.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\WebDriver.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\WebDriver.Support.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\nunit.framework.xml
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\Protractor.pdb
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\Protractor.xml
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\WebDriver.xml
+C:\Sources\ProtractorTesting\ProtractorTesting\bin\Debug\WebDriver.Support.xml
+C:\Sources\ProtractorTesting\ProtractorTesting\obj\Debug\ProtractorTesting.dll
+C:\Sources\ProtractorTesting\ProtractorTesting\obj\Debug\ProtractorTesting.pdb
+C:\Sources\ProtractorTesting\ProtractorTesting\obj\Debug\ProtractorTesting.csprojResolveAssemblyReference.cache
